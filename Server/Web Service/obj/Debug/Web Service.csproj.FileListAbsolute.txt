@@ -1,0 +1,84 @@
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\Web Service.dll.config
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\Web Service.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\Web Service.pdb
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\EntityFramework.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\HtmlAgilityPack.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\Microsoft.Web.Helpers.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\Newtonsoft.Json.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Net.Http.Formatting.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Cors.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Helpers.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Http.Cors.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Http.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Http.Tracing.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Http.WebHost.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Mvc.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Razor.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.WebPages.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\WebMatrix.Data.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\WebMatrix.WebData.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\EntityFramework.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\HtmlAgilityPack.pdb
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\HtmlAgilityPack.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\Newtonsoft.Json.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Net.Http.Formatting.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Helpers.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Http.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Http.Cors.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Http.Tracing.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Http.WebHost.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Mvc.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.Razor.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.WebPages.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\WebMatrix.Data.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\bin\WebMatrix.WebData.xml
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\obj\Debug\Web Service.dll
+C:\Users\khanh\Downloads\Cookbook-KCPM-master\Source\Web Service\Web Service\obj\Debug\Web Service.pdb
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\Web Service.dll.config
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\Web Service.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\Web Service.pdb
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\EntityFramework.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\HtmlAgilityPack.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\Microsoft.Web.Helpers.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\Newtonsoft.Json.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Net.Http.Formatting.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Cors.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Helpers.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Http.Cors.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Http.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Http.Tracing.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Http.WebHost.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Mvc.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Razor.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.WebPages.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\WebMatrix.Data.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\WebMatrix.WebData.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\EntityFramework.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\HtmlAgilityPack.pdb
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\HtmlAgilityPack.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\Newtonsoft.Json.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Net.Http.Formatting.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Helpers.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Http.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Http.Cors.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Http.Tracing.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Http.WebHost.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Mvc.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.Razor.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.WebPages.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\WebMatrix.Data.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\bin\WebMatrix.WebData.xml
+C:\Users\trann\Desktop\New folder\Server\Web Service\obj\Debug\Web Service.csprojResolveAssemblyReference.cache
+C:\Users\trann\Desktop\New folder\Server\Web Service\obj\Debug\Web Service.dll
+C:\Users\trann\Desktop\New folder\Server\Web Service\obj\Debug\Web Service.pdb
